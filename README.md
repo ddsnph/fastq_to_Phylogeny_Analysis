@@ -37,7 +37,7 @@ results/
   └── vcf/     # per-sample VCFs and .tbi
 scripts/       # shell scripts I ran (listed below)
 
-# Scripts I Ran and What They Do
+## Scripts I Ran and What They Do
 
 All scripts live in `scripts/`.
 
