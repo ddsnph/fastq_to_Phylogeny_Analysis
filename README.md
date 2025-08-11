@@ -36,9 +36,7 @@ results/
   ├── bam/     # sorted, deduped, recalibrated BAMs
   └── vcf/     # per-sample VCFs and .tbi
 scripts/       # shell scripts I ran (listed below)
-```text
-
-
+```
 ---
 
 ## Scripts I Ran and What They Do
